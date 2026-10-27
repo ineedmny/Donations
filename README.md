@@ -1,4 +1,4 @@
-# mny
+# Donation
 
 A 股 / 美股双市场 AI 模拟交易系统。同一套 Python 与 FastAPI 代码，同时维护三个相互隔离的模拟账户：
 
